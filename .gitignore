@@ -1,0 +1,17 @@
+# 여기에 내용 입력
+__pycache__/
+*.pyc
+.env
+venv/
+deepfake_env/
+.ipynb_checkpoints/
+data/
+checkpoints/
+runs/
+wandb/
+*.pt
+*.zip
+*.csv
+venv/
+*.pyc
+__pycache__/
