@@ -18,3 +18,8 @@ __pycache__/
 deepfakeface_extracted/
 deepfakeface_raw/
 *.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+*.webp
